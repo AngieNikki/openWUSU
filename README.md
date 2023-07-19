@@ -1,4 +1,4 @@
-# openWUSU: Wuhan Urban Semantic Understanding Dataset
+# WUSU: Wuhan Urban Semantic Understanding Dataset
 
 ![WUSU](./fig/WUSU_page.png)
 
@@ -47,7 +47,7 @@ This system includes the following classes:
 
 ## Dataset Download
 
-Be uploaded soon
+Be uploaded soon…
 
 ## Public Datasets
 Several public datasets with spatial resolution better than 10 m for land use/land cover classification, binary change detection and semantic change detection (excluding competition datasets) mentioned in our paper are as follows:
