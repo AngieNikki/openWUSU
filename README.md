@@ -117,18 +117,20 @@ The WUSU dataset is made available under the [Open Database License](http://open
 
 ## Citing
 
-If you use WUSU dataset, codebase or models in your research, please consider cite.
+If you use WUSU dataset, codebase or models in your research, please consider citing our paper. [<a href="https://doi.org/10.1080/17538947.2023.2246445" target="_blank">Open Access</a>]
 
-@article{shi2023openWUSU,
-  author={Shi, Sunan and Zhong, Yanfei and Liu, Yinhe and Wang, Jue and Wan, Yuting and Zhao, Ji and Lv, Pengyuan and Zhang, Liangpei and Li, Deren},
-  journal={International Journal of Digital Earth}, 
-  title={Multi-temporal urban semantic understanding based on GF-2 remote sensing imagery: from tri-temporal datasets to multi-task mapping}, 
-  year={2023},
-  volume={16},
-  issue={1},
-  pages={3321-3347},
-  doi={10.1080/17538947.2023.2246445}}
-
+```
+@Article{shi2023openWUSU,
+AUTHOR = {Shi, Sunan and Zhong, Yanfei and Liu, Yinhe and Wang, Jue and Wan, Yuting and Zhao, Ji and Lv, Pengyuan and Zhang, Liangpei and Li, Deren},
+TITLE = {Multi-temporal urban semantic understanding based on GF-2 remote sensing imagery: from tri-temporal datasets to multi-task mapping},
+JOURNAL = {International Journal of Digital Earth},
+VOLUME = {16},
+YEAR = {2023},
+ISSUE = {1},
+PAGES={3321-3347},
+DOI = {10.1080/17538947.2023.2246445}
+}
+```
   
 ##### Reference materials:  
 * [MinZHANG-WHU/Change-Detection-Review](https://github.com/MinZHANG-WHU/Change-Detection-Review)
