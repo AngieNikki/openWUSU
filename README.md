@@ -115,6 +115,21 @@ Several public datasets with spatial resolution better than 10 m for land use/la
 The WUSU dataset is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
 
 
+## Citing
+
+If you use WUSU dataset, codebase or models in your research, please consider cite.
+
+@article{shi2023openWUSU,
+  author={Shi, Sunan and Zhong, Yanfei and Liu, Yinhe and Wang, Jue and Wan, Yuting and Zhao, Ji and Lv, Pengyuan and Zhang, Liangpei and Li, Deren},
+  journal={International Journal of Digital Earth}, 
+  title={Multi-temporal urban semantic understanding based on GF-2 remote sensing imagery: from tri-temporal datasets to multi-task mapping}, 
+  year={2023},
+  volume={16},
+  issue={1},
+  pages={3321-3347},
+  doi={10.1080/17538947.2023.2246445}}
+
+  
 ##### Reference materials:  
 * [MinZHANG-WHU/Change-Detection-Review](https://github.com/MinZHANG-WHU/Change-Detection-Review)
 * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
