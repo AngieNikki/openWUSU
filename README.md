@@ -112,7 +112,7 @@ Several public datasets with spatial resolution better than 10 m for land use/la
 
 ## License
 
-The WUSU dataset is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
+The WUSU dataset is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).The copyright of the WUSU dataset belongs to Intelligent Data Extraction, Analysis and Applications of Remote Sensing(RSIDEA) academic research group, State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. The WUSU dataset can be used for academic purposes only and need to cite the following paper, but any commercial use is prohibited. Otherwise, RSIDEA of Wuhan University reserves the right to pursue legal responsibility.
 
 
 ## Citing
